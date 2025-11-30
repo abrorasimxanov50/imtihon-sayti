@@ -98,7 +98,7 @@ body {
                 padding: 10px;
             }
 
-<<<<<<< HEAD
+}
 @media(max-width: 367px){
     .page1 {
     max-height: 100vh;
@@ -110,15 +110,11 @@ body {
     flex-wrap: wrap;
     
 }
-=======
-            .container {
+        .container {
                 width: 100%;
                 padding: 5px;
             }
         }
->>>>>>> 7577cf40a15ac8f9d6ad514a61ca6648e60c5cad
-
-}
 
 .page1 {
     
@@ -378,8 +374,5 @@ body {
     margin-top: 40px;
 }
 
-@media(max-width: 367px){
-    
-    
-}
+
 

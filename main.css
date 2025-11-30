@@ -92,7 +92,13 @@ body {
     font-weight: 600;
     cursor: pointer;
 }
+@media (max-width: 600px) {
+            body {
+                font-size: 16px;
+                padding: 10px;
+            }
 
+<<<<<<< HEAD
 @media(max-width: 367px){
     .page1 {
     max-height: 100vh;
@@ -104,6 +110,13 @@ body {
     flex-wrap: wrap;
     
 }
+=======
+            .container {
+                width: 100%;
+                padding: 5px;
+            }
+        }
+>>>>>>> 7577cf40a15ac8f9d6ad514a61ca6648e60c5cad
 
 }
 
@@ -347,8 +360,7 @@ body {
     color: #e8e8e8;
     margin-bottom: 15px;
 }
-
-.col a {
+ .col a {
     color: #9c9c9c;
     text-decoration: none;
     margin: 3px 0;
